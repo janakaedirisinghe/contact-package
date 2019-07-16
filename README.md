@@ -19,13 +19,20 @@ composer require chuti/contact
 
 ### 2. Add the DB Credentials & APP_URL
 
-Next make sure to create a new database and add your database credentials to your .env file:
+Next make sure to create a new database and mail credentials to add your database and mail credentials to your .env file:
 
 ```
 DB_HOST=localhost
 DB_DATABASE=homestead
 DB_USERNAME=homestead
 DB_PASSWORD=secret
+
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=USERNAME
+MAIL_PASSWORD=PASSWORD
+MAIL_ENCRYPTION=tls
 ```
 
 <hr>
