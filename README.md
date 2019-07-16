@@ -6,8 +6,10 @@
 <a href="https://packagist.org/packages/chuti/contact"><img src="https://img.shields.io/github/stars/janaka531/contact-package.svg" alt="Star"></a>
 <a href="https://packagist.org/packages/chuti/contact"><img  src="https://img.shields.io/github/forks/janaka531/contact-package.svg" alt="Folks"></a>
 <a href="https://packagist.org/packages/chuti/contact"><img  src="https://img.shields.io/github/license/janaka531/contact-package.svg" alt="License"></a>
+<a href="https://packagist.org/packages/chuti/contact"><img  src="https://poser.pugx.org/chuti/contact/downloads.svg?format=flat"></a>
 
-</p>
+</p> 
+
 
 ## Installation Steps
 
