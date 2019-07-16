@@ -1,0 +1,28 @@
+{
+    "name": "chuti/contact",
+    "description": "This will send email to admin and save cotact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "janaka531",
+            "email": "janakapradeepedirisinghe@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chuti\\Contact\\": "src/"
+        }
+    },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Chuti\\Contact\\ContactServiceProvider"
+            ]
+        }
+    } /*dfs*/
+}
+
