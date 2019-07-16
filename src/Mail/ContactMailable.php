@@ -35,6 +35,6 @@ class ContactMailable extends Mailable
     {
         return $this->markdown('contact::contact.email')->with([
             'message' => $this->message,
-            'name' => $this->name]) ;
+            'name' => $this->name])->subject(config('contact.subject')) ;
     }
 }

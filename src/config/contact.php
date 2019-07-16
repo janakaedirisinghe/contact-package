@@ -2,5 +2,6 @@
 
 
 return[
-    'send_email_to' => 'janakapradeepedirisinghe@gmail.com'
+    'send_email_to' => 'janakapradeepedirisinghe@gmail.com',
+    'subject' => 'My Subject'
 ];
