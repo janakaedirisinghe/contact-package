@@ -12,7 +12,7 @@ class ContactServiceProvider extends ServiceProvider{
             /*Schema::defaultStringLength('150');*/
             $this->loadRoutesFrom(__DIR__.'/routes/web.php');
             $this->loadViewsFrom(__DIR__.'/views','contact');
-           // $this->publishes([__DIR__,'/database/migrations' => database_path('migrations')]);
+
             $this->loadMigrationsFrom(__DIR__.'/database/migrations');
 
             $this->mergeConfigFrom(__DIR__. '/config/contact.php',
