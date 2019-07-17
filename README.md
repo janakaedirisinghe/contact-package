@@ -1,12 +1,13 @@
 # Contact-Package for LARAVEL
 
-
 <p align="center">
 <a href="https://packagist.org/packages/chuti/contact"><img src="https://img.shields.io/github/issues/janaka531/contact-package.svg" alt="Issue"></a>
-<a href="https://packagist.org/packages/chuti/contact"><img src="https://img.shields.io/github/stars/janaka531/contact-package.svg" alt="Star"></a>
+<a href="https://packagist.org/packages/chuti/contact"><img src="https://img.shields.io/github/stars/janaka531/PHP-API.svg?color=red" alt="Star"></a>
 <a href="https://packagist.org/packages/chuti/contact"><img  src="https://img.shields.io/github/forks/janaka531/contact-package.svg" alt="Folks"></a>
 <a href="https://packagist.org/packages/chuti/contact"><img  src="https://img.shields.io/github/license/janaka531/contact-package.svg" alt="License"></a>
 <a href="https://packagist.org/packages/chuti/contact"><img  src="https://poser.pugx.org/chuti/contact/downloads.svg?format=flat"></a>
+
+
 
 </p> 
 
